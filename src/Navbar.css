@@ -1,0 +1,21 @@
+/* Navbar styling */
+.navbar {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(86, 3, 3);
+  }
+  
+  /* Navbar link styling */
+  .nav-link {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  

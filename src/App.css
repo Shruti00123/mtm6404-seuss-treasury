@@ -37,5 +37,16 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: rgb(56, 2, 2);
+}
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f5f5f5;
+}
+
+.App {
+  text-align: center;
+  padding-top: 20px;
 }
